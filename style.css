@@ -12,28 +12,28 @@ body{
 }
 
 #main{
-	background-image: url(PicTure//travel.jpg);
+	background-image: url(travel.jpg);
 }
 
 
 #britain{
-	background-image: url(PicTure//bridge5.jpg);
+	background-image: url(bridge5.jpg);
 }
 
 #france{
-	background-image: url(PicTure//eiffel.jpg);
+	background-image: url(eiffel.jpg);
 }
 
 #spain{
-	background-image: url(PicTure//barcelona.jpg);
+	background-image: url(barcelona.jpg);
 }
 
 #seville{
-	background-image: url(PicTure//back.jpg);	
+	background-image: url(back.jpg);	
 }
 
 #italy{
-	background-image: url(PicTure//venice2.jpg);
+	background-image: url(venice2.jpg);
 }
 
 #travelask{
